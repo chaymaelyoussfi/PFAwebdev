@@ -29,6 +29,8 @@
 
 - Visual Studio Code
 - Flutter
+- phaser.js
+- passwport.js
 - Node.js
 - Express JS
 - Socket.io
