@@ -29,15 +29,12 @@
 
 - Visual Studio Code
 - Flutter
-- phaser.js
-- passwport.js
+- Flame
+- passport.js
 - Node.js
 - Express JS
 - Socket.io
 - MongoDb
-- ReactJS
-- TailWind
-
 
 
 # Installation et Execution de l'application web
