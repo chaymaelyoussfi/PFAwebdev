@@ -61,6 +61,6 @@ npm start
 Par la suite passez sur le port 3001 sur le Browser.
 
 # Date de sortie du application
-NOM_APPLICATION sera disponible le 1er Septembre 2024 , Tenez vous prêt !
+NOM_APPLICATION sera disponible le 1er Septembre 2024, Tenez vous prêt!
 
-La version finale est prête , le lien de l'app : url-app-une-fois-quelle-sera-deployé
+La version finale est prête, le lien de l'app : 
